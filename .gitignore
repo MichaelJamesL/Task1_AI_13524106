@@ -1,0 +1,21 @@
+# LaTeX aux files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# doc/
+/doc/*
+!/doc/spec.pdf
+
+# Save game files & runtime artifacts
+*.sav
+*_save.txt
+highscore.txt
+
+# OS
+Thumbs.db
+.DS_Store

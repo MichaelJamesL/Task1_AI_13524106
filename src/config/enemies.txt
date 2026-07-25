@@ -1,0 +1,6 @@
+enemy(slime,    20,  5, 1,   8).
+enemy(skeleton, 30,  8, 3,  14).
+enemy(ratwolf,  25, 10, 2,  12).
+enemy(harpy,    22, 11, 2,  13).
+enemy(vampire,  40, 12, 4,  20).
+enemy(gargoyle, 45,  9, 8,  22).
